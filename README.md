@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vodolle
-- 👀 I’m interested in woman, games art, music
+- 👀 I’m interested in games art, music
 - 🌱 I’m currently learning media computer science
 - 💞️ I’m looking to collaborate on software for games, passion projects, university projects
 - 📫 How to reach me ...
